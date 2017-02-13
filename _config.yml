@@ -8,8 +8,8 @@ url: "http://zyphs21.github.io"
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "小猪"
+  email: 1014381616@qq.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: zhuchen1010
+weibo_username: 小猪
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: zhuchen1010
 
 # Build settings  
 # use Github Flavored Markdown !important  
